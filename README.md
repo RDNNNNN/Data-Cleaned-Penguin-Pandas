@@ -17,3 +17,38 @@
 - body_mass_g：企鵝體重（單位為克）
 - sex：企鵝性別
 
+### 企鵝種類
+
+![Penguins](image/penguins.png)
+
+### 企鵝島嶼
+
+![Islands](image/islands.png)
+
+### 企鵝性別
+
+![Sex](image/sex.png)
+
+### 不同島嶼企鵝種類
+
+![Penguins Islands](image/penguins_islands.png)
+
+### 不同島嶼企鵝性別
+
+![Islands Sex](image/islands_sex.png)
+
+### 企鵝間的關聯性
+
+![Pairplot Penguins](image/pairplot_penguins.png)
+
+### 企鵝種類間的差異
+
+![Pairplot Species](image/pairplot_species.png)
+
+### 企鵝種類間的差異(線性回歸線)
+
+![Pairplot Species Line](image/pairplot_species_line.png)
+
+### 企鵝性別的差異
+
+![Pairplot Sex](image/pairplot_sex.png)
